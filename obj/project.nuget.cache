@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "BCTe3qBi9/ZYyhFt+lh83bk6RF4qUdAAPSJuh2Z0KUrVZNv2AVwu3KuLPFfqixH3qSriZ/9AEq6GTK2iK3/MSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lolek\\RiderProjects\\TruangulationCalculator\\TriangulationCalculator\\TriangulationCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lolek\\.nuget\\packages\\extreme.numerics\\8.1.23\\extreme.numerics.8.1.23.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lolek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

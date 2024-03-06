@@ -1,0 +1,17 @@
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\bin\Debug\net6.0\TruangulationCalculator.exe
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\bin\Debug\net6.0\TruangulationCalculator.deps.json
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\bin\Debug\net6.0\TruangulationCalculator.runtimeconfig.json
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\bin\Debug\net6.0\TruangulationCalculator.dll
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\bin\Debug\net6.0\TruangulationCalculator.pdb
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\bin\Debug\net6.0\Extreme.Numerics.dll
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.csproj.AssemblyReference.cache
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.AssemblyInfoInputs.cache
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.AssemblyInfo.cs
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.csproj.CopyComplete
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.dll
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\refint\TruangulationCalculator.dll
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.pdb
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\TruangulationCalculator.genruntimeconfig.cache
+C:\Users\Lolek\RiderProjects\TruangulationCalculator\TruangulationCalculator\obj\Debug\net6.0\ref\TruangulationCalculator.dll
